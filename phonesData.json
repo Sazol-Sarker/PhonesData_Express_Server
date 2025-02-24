@@ -1,0 +1,18 @@
+[
+    { "id": 1, "brand": "Apple", "model": "iPhone 15 Pro", "price": 999, "ram": "8GB", "storage": "256GB", "battery": "3274mAh" },
+    { "id": 2, "brand": "Samsung", "model": "Galaxy S23 Ultra", "price": 1199, "ram": "12GB", "storage": "512GB", "battery": "5000mAh" },
+    { "id": 3, "brand": "Google", "model": "Pixel 8 Pro", "price": 999, "ram": "12GB", "storage": "256GB", "battery": "5050mAh" },
+    { "id": 4, "brand": "OnePlus", "model": "11 Pro", "price": 799, "ram": "16GB", "storage": "256GB", "battery": "5000mAh" },
+    { "id": 5, "brand": "Xiaomi", "model": "Mi 13 Ultra", "price": 1099, "ram": "16GB", "storage": "512GB", "battery": "5000mAh" },
+    { "id": 6, "brand": "Oppo", "model": "Find X6 Pro", "price": 899, "ram": "12GB", "storage": "256GB", "battery": "5000mAh" },
+    { "id": 7, "brand": "Vivo", "model": "X100 Pro", "price": 999, "ram": "16GB", "storage": "512GB", "battery": "5000mAh" },
+    { "id": 8, "brand": "Sony", "model": "Xperia 1 V", "price": 1299, "ram": "12GB", "storage": "256GB", "battery": "5000mAh" },
+    { "id": 9, "brand": "Asus", "model": "ROG Phone 7", "price": 1099, "ram": "16GB", "storage": "512GB", "battery": "6000mAh" },
+    { "id": 10, "brand": "Realme", "model": "GT Neo 5", "price": 699, "ram": "12GB", "storage": "256GB", "battery": "5000mAh" },
+    { "id": 11, "brand": "Motorola", "model": "Edge 40 Pro", "price": 799, "ram": "12GB", "storage": "256GB", "battery": "4600mAh" },
+    { "id": 12, "brand": "Huawei", "model": "P60 Pro", "price": 999, "ram": "12GB", "storage": "512GB", "battery": "4815mAh" },
+    { "id": 13, "brand": "Nokia", "model": "X30 5G", "price": 599, "ram": "8GB", "storage": "128GB", "battery": "4200mAh" },
+    { "id": 14, "brand": "Nothing", "model": "Phone (2)", "price": 749, "ram": "12GB", "storage": "256GB", "battery": "4700mAh" },
+    { "id": 15, "brand": "Redmi", "model": "Note 12 Pro+", "price": 499, "ram": "8GB", "storage": "256GB", "battery": "5000mAh" }
+  ]
+  
